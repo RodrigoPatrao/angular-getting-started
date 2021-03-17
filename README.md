@@ -1,3 +1,4 @@
-# angular-rjqku6
+# Getting Started
+Angular application from Angular.io site.
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-rjqku6)
+[Made with StackBlitz ⚡️](https://stackblitz.com/edit/angular-rjqku6)
